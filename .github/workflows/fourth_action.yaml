@@ -1,6 +1,6 @@
 # outputs.yaml
 # fourth.yaml
-name: Welcome to the party (second)
+name: know the time
 on:
   workflow_dispatch:
 

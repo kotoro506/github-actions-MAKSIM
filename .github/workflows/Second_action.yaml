@@ -1,4 +1,4 @@
-name: know the time 
+name: Welcome to the party (second)
 on:
   workflow_dispatch:
 jobs:
